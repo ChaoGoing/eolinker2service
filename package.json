@@ -1,0 +1,11 @@
+{
+  "name": "eolinker2service",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:ChaoGoing/eolinker2service.git",
+  "author": "陈子超 <chenzichao@ydjdev.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.6.3"
+  }
+}
