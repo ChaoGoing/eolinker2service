@@ -5,7 +5,21 @@
   "repository": "git@github.com:ChaoGoing/eolinker2service.git",
   "author": "陈子超 <chenzichao@ydjdev.com>",
   "license": "MIT",
+  "bin": {
+    "eolinker2service": "./bin/index.js"
+  },
   "devDependencies": {
+    "eslint": "^8.13.0",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-plugin-prettier": "^4.0.0",
+    "prettier": "^2.6.2",
     "typescript": "^4.6.3"
+  },
+  "dependencies": {
+    "axios": "^0.26.1",
+    "cosmiconfig": "^7.0.1",
+    "inquirer": "^8.2.2",
+    "qs": "^6.10.3",
+    "resolve": "^1.22.0"
   }
 }

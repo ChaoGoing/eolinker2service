@@ -1,0 +1,11 @@
+{
+  "editor.formatOnSave": true,
+  "typescript.tsdk": "node_modules/typescript/lib",
+  "jest.autoRun": "off",
+  "javascript.suggestionActions.enabled": false,
+  "typescript.suggestionActions.enabled": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.stylelint": true
+    // "source.fixAll.eslint": true
+  }
+}
